@@ -1,4 +1,6 @@
 # Analysis and Synthesis of Algorithms <br> Análise e Síntese de Algoritmos (ASA)
+## Bachelor of Computer Science & Engineering
+## Instituto Superior Técnico
 1st project of my Analysis and Synthesis of Algorithms course. <br><br>
 Problem: Mr. John decided to make a photo album. When opening a drawer in a furniture of the collection
 Mr. Joao found a large amount of photographs that he had accumulated along
